@@ -1,0 +1,16 @@
+MonthName,ENSO_Phase,AvgSnow,StormCount
+Nov,El Nino,2.5,9
+Nov,La Nina,0.78,6
+Nov,Neutral,2.77,6
+Dec,El Nino,2.5,26
+Dec,La Nina,1.34,29
+Dec,Neutral,2.03,41
+Jan,El Nino,2.93,63
+Jan,La Nina,2.03,58
+Jan,Neutral,1.82,54
+Feb,El Nino,3.66,49
+Feb,La Nina,1.86,35
+Feb,Neutral,2.64,53
+Mar,El Nino,2.08,26
+Mar,La Nina,1.72,24
+Mar,Neutral,2.36,24
